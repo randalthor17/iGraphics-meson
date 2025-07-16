@@ -11,6 +11,7 @@
  * GitHub: https://github.com/mahirlabibdihan
  * Date: July 11, 2025
  */
+#pragma once
 
 #include <SDL.h>
 #include <SDL_mixer.h>
